@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Slab:wght@300&family=Secular+One&family=Unbounded:wght@300&display=swap');
+
+
+
+
+body{
+  background: #65727c;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Unbounded', cursive;
+}
+
+.navbar-brand{
+  color: black;
+  position: absolute;
+  left: 16%;
+  transform: translatex(-50%);
+  font-size: 90px;
+  text-align: center;
+  font-weight: bold;
+  top: 5px;
+}
+
+.navbar{
+  color: black;
+}
+
+.navbar {
+  min-height: 130px !important;
+
+}
+
+.hora{
+  font-size: 90px;
+  font-weight: bold;
+  
+}
+

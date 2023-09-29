@@ -1,0 +1,26 @@
+.top_bar{
+    background-color: #272426;
+    display: flex;
+    align-items: center;
+    padding: 0rem 2.5rem;
+    gap:2rem;
+    
+    
+}
+
+.logo img{
+    width: 1.5rem;
+    height: 1.5rem;
+    
+    
+}
+.top_bar h3{
+    font-size: 2rem;
+    color: #FDE000;
+    
+}
+
+.picture{
+    padding: 0px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,19 @@
+.FlightInfoArrivals {
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    border-inline: 5px solid transparent;
+}
+
+.FlightInfoArrivals thead {
+    background-color: #535b61;
+}
+
+
+.FlightInfoArrivals tbody tr {
+    border-bottom: 1px solid rgb(45, 41, 46);
+}
+
+.fromColor {
+    color: white;
+}

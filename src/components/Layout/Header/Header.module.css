@@ -1,0 +1,39 @@
+.header {
+    background-color: #474b4e;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+
+.header h2 {
+    font-size: 5rem;
+    padding-top: 20px;
+    color: white;
+
+}
+
+.header span {
+    font-size: 5rem;
+    padding-right: 20px;
+    color: white;
+
+}
+
+.picture {
+    width: 24rem;
+    display: flex;
+    align-items: Right;
+    padding-left: 0px;
+}
+
+.picture img {
+    width: 100%;
+    object-fit: cover;
+    padding-left: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
